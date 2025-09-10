@@ -23,11 +23,11 @@ apt install python-pillow
 ```
 4. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli
+git clone https://github.com/rfstore2/Dor-XL3
 ```
 5. Open the folder
 ```
-cd me-cli
+cd Dor-XL3
 ```
 6. Install dependencies
 ```
